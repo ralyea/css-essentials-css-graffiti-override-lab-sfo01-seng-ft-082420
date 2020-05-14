@@ -5,9 +5,6 @@
 #wall #tag-3 .slick {
   display: none;
 }
-#wall #wall #tag-2 {
-  display: none;
-}
 #wall #tag-2 {
   background: url(../images/tag-2.png) no-repeat;
   z-index: 6;
