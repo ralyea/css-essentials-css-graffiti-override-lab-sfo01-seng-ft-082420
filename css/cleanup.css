@@ -2,12 +2,9 @@
 #wall .tag-1 {
   display: none;
 }
-#wall #tag-3 .slick wicked {
+.slick wicked {
   display: none;
 }
 #wall #tag-2 {
-  display: none;
-}
-* {
   display: none;
 }
